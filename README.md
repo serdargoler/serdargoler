@@ -23,6 +23,4 @@
 <a href="https://twitter.com/serdargoler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="serdargoler" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/serdargoler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="serdargoler" height="30" width="30" /></a>
 <a href="https://kaggle.com/serdargoler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="serdargoler" height="30" width="30" /></a>
-<a href="https://fb.com/serdargoler1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="serdargoler1" height="30" width="30" /></a>
-<a href="https://instagram.com/serdargoler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="serdargoler" height="30" width="30" /></a>
 </p>
