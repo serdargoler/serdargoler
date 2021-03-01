@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serdargoler" alt="serdargoler" /> </p>
 
-- 🔭 I’m currently working on [claims data of debt collection agency](https://github.com/serdargoler/debt-collection-agency)
+- 🔭 I’m currently working on **"Predicting bankruptcy with ML Techniques"** project.
 
 - 🌱 I’m currently learning **streamline data ingestion with Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/serdargoler?tab=repositories](https://github.com/serdargoler?tab=repositories)
 
-- 💬 Ask me about **Python, R, SQL or AWS**
+- 💬 Ask me about **Python, R, SQL, PowerBI, MicroStrategy or AWS**
 
 - 📫 How to reach me **serdargoler@gmail.com**
 
