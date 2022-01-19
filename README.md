@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Serdar</h1>
-<h3 align="center">A passionate data analyst and reporting specialist from Turkey based in Poland</h3>
+<h3 align="center">A passionate data scientist based in Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serdargoler" alt="serdargoler" /> </p>
 
-- 🔭 I’m currently working on **"Predicting bankruptcy with ML Techniques"** project.
+- 🔭 I’m currently working on **"Predicting bankruptcy risk with ML Techniques"** project.
 
-- 🌱 I’m currently learning **streamline data ingestion with Python**
+- 🌱 I’m currently learning **Hadoop and PySpark**
 
 - 👨‍💻 All of my projects are available at [https://github.com/serdargoler?tab=repositories](https://github.com/serdargoler?tab=repositories)
 
