@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serdargoler" alt="serdargoler" /> </p>
 
-- 🔭 I’m currently working on **"Predicting bankruptcy risk with ML Techniques"** project.
+- 🔭 I’m currently working on **"Predicting FX client profitability ML Techniques"** project.
 
 - 🌱 I’m currently learning **Hadoop and PySpark**
 
